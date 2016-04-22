@@ -1,0 +1,25 @@
+{
+  "name": "gulp-gener",
+  "version": "1.0.0",
+  "description": "component build tools",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yfdezhuye/gulp-gener.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "gener, gulp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cmpjs": "^1.1.0",
+    "glob": "^7.0.3",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
